@@ -1,0 +1,2 @@
+# Implementasi-Interpolasi-Ivan-Benhard-Sitorus_21120122130085
+program ini bertujuan untuk menginterpolasi data pengukuran hubungan antara tegangan yang diberikan kepada baja tahan karat dan waktu yang diperlukan hingga baja tersebut patah menggunakan dua metode interpolasi polinomial: Lagrange dan Newton. Program ini juga menampilkan grafik hasil interpolasi untuk memberikan visualisasi hubungan tersebut.
